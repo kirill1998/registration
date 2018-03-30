@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<users>
+
+<user>
+    <id>0</id>
+    <name>test</name>
+    <login>user123</login>
+    <password>user123</password>
+    <email>user123@mail.ru</email>
+</user>
+<user><name>q</name><login>q</login><password>bb94e01e259fc0ff9af48378b7a70c61</password><email>w2er4@mail.ru</email></user></users>

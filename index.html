@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>log in</title>
+	<link rel="stylesheet" href="style.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="main.js" defer></script>
+</head>
+
+<body>
+
+
+
+<form id="loginForm" class="loginForm">
+    <h1>Log in Form</h1>
+    <fieldset id="inputs">
+        <input id="username" type="text" name="login" placeholder="Login" autofocus required>
+        <input id="password" type="password" name="password" placeholder="Password" required>
+    </fieldset>
+    <p id="info" class="info"></p>
+    <fieldset id="actions">
+        <input type="submit" id="submit" value="Log in">
+        <a href="reg.html">Registration</a>
+    </fieldset>
+</form>
+<noscript>
+    <style type="text/css">
+        #submit{display:none;}
+    </style>
+    <div class="noscriptmsg">
+        You don't have javascript enabled.  Good luck with that.
+    </div>
+</noscript>
+</body>
+</html>
