@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fce56f9b-2f5d-4d03-8655-2faf1db79248" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/public_html.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/auth.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/database.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exit.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hello.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hellologic.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/reg.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/registration.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/session/session.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/session/session.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/style.css" />
-    </list>
+    <list default="true" id="fce56f9b-2f5d-4d03-8655-2faf1db79248" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -241,18 +224,17 @@
       <option name="presentableId" value="Default" />
       <updated>1522273289784</updated>
       <workItem from="1522273296458" duration="618000" />
-      <workItem from="1522312321505" duration="36914000" />
+      <workItem from="1522312321505" duration="37416000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37532000" />
+    <option name="totallyTimeSpent" value="38034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
