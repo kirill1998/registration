@@ -15,7 +15,7 @@ else{
 $login = trim(htmlspecialchars(stripslashes($login)));
 $password = trim(htmlspecialchars(stripslashes($password)));
 if (file_exists('database.xml')) {
-
+   // работаем с xml с помощью simplexml
     $xml = simplexml_load_file('database.xml');
 
 } else {
